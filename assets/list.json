@@ -1,0 +1,2384 @@
+{
+  "result": [
+    {
+      "subMenus": [
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "/index/homeManagement/advPosition/advPosition-edit",
+              "name": "编辑中内容",
+              "id": 10201
+            },
+            {
+              "subMenus": [],
+              "link": "/index/homeManagement/advPosition/advPosition-pending",
+              "name": "待审核内容",
+              "id": 10202
+            },
+            {
+              "subMenus": [],
+              "link": "/index/homeManagement/advPosition/advPosition-to-start",
+              "name": "未开始内容",
+              "id": 10203
+            },
+            {
+              "subMenus": [],
+              "link": "/index/homeManagement/advPosition/advPosition-processing",
+              "name": "进行中内容",
+              "id": 10204
+            },
+            {
+              "subMenus": [],
+              "link": "/index/homeManagement/advPosition/advPosition-list",
+              "name": "内容列表",
+              "id": 10205
+            }
+          ],
+          "link": null,
+          "name": "内容管理",
+          "id": 102
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "shareWord/list.html",
+              "name": "分享语管理",
+              "id": 100402
+            }
+          ],
+          "link": null,
+          "name": "分享语管理",
+          "id": 104
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "advPosition/page.html",
+              "name": "页面管理",
+              "id": 10301
+            },
+            {
+              "subMenus": [],
+              "link": "advPosition/plate.html",
+              "name": "版块管理",
+              "id": 10302
+            },
+            {
+              "subMenus": [],
+              "link": "advPosition/template.html",
+              "name": "模板管理",
+              "id": 10303
+            },
+            {
+              "subMenus": [],
+              "link": "advPosition/advertise.html",
+              "name": "专题管理",
+              "id": 10304
+            }
+          ],
+          "link": null,
+          "name": "布局管理",
+          "id": 103
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "interact/fullScreen.html",
+              "name": "全屏动效管理",
+              "id": 10501
+            }
+          ],
+          "link": null,
+          "name": "互动营销管理",
+          "id": 105
+        }
+      ],
+      "link": null,
+      "name": "首页管理",
+      "id": 1
+    },
+    {
+      "subMenus": [
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "mallspecial/pending.html",
+              "name": "待审核商品",
+              "id": 20101
+            },
+            {
+              "subMenus": [],
+              "link": "mallspecial/processing.html",
+              "name": "已上架商品",
+              "id": 20103
+            },
+            {
+              "subMenus": [],
+              "link": "mallspecial/end.html",
+              "name": "已下架商品",
+              "id": 20104
+            },
+            {
+              "subMenus": [],
+              "link": "mallspecial/list.html",
+              "name": "全部商品",
+              "id": 20105
+            },
+            {
+              "subMenus": [],
+              "link": "mallspecial/inventory.html?source=1",
+              "name": "商品库存查询",
+              "id": 20109
+            }
+          ],
+          "link": null,
+          "name": "营销商品管理",
+          "id": 201
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "distribute/set.html?source=1",
+              "name": "分销商品",
+              "id": 21601
+            },
+            {
+              "subMenus": [],
+              "link": "wine/explainList.html?source=1",
+              "name": "天狗权益",
+              "id": 21603
+            },
+            {
+              "subMenus": [],
+              "link": "product/faqList.html?source=4",
+              "name": "FAQ列表",
+              "id": 21604
+            }
+          ],
+          "link": null,
+          "name": "营销商品设置",
+          "id": 216
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "suppermarket/product/list.html?source=1",
+              "name": "商品列表",
+              "id": 20901
+            },
+            {
+              "subMenus": [],
+              "link": "mall/skuList.html",
+              "name": "sku列表",
+              "id": 20902
+            }
+          ],
+          "link": null,
+          "name": "基础商品管理",
+          "id": 209
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "mall/categoryList.html?source=1",
+              "name": "商品分类",
+              "id": 21501
+            },
+            {
+              "subMenus": [],
+              "link": "mall/property.html",
+              "name": "描述性属性",
+              "id": 21503
+            },
+            {
+              "subMenus": [],
+              "link": "product/attribute.html",
+              "name": "销售性属性",
+              "id": 21504
+            },
+            {
+              "subMenus": [],
+              "link": "product/group.html?source=1",
+              "name": "分组列表",
+              "id": 21505
+            }
+          ],
+          "link": null,
+          "name": "基础信息管理",
+          "id": 215
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "mallCu/edit.html",
+              "name": "编辑中券",
+              "id": 20201
+            },
+            {
+              "subMenus": [],
+              "link": "mallCu/pending.html",
+              "name": "待审核券",
+              "id": 20202
+            },
+            {
+              "subMenus": [],
+              "link": "mallCu/toStart.html",
+              "name": "未开始券",
+              "id": 20203
+            },
+            {
+              "subMenus": [],
+              "link": "mallCu/processing.html",
+              "name": "进行中券",
+              "id": 20204
+            },
+            {
+              "subMenus": [],
+              "link": "mallCu/end.html",
+              "name": "已结束券",
+              "id": 20205
+            },
+            {
+              "subMenus": [],
+              "link": "mallCu/list.html",
+              "name": "全部券",
+              "id": 20206
+            }
+          ],
+          "link": null,
+          "name": "券管理",
+          "id": 202
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "activity/edit.html?source=1",
+              "name": "编辑中活动",
+              "id": 20301
+            },
+            {
+              "subMenus": [],
+              "link": "activity/pending.html?source=1",
+              "name": "待审核活动",
+              "id": 20302
+            },
+            {
+              "subMenus": [],
+              "link": "activity/toStart.html?source=1",
+              "name": "未开始活动",
+              "id": 20303
+            },
+            {
+              "subMenus": [],
+              "link": "activity/processing.html?source=1",
+              "name": "进行中活动",
+              "id": 20304
+            },
+            {
+              "subMenus": [],
+              "link": "activity/end.html?source=1",
+              "name": "已结束活动",
+              "id": 20305
+            },
+            {
+              "subMenus": [],
+              "link": "activity/list.html?source=1",
+              "name": "全部活动",
+              "id": 20306
+            }
+          ],
+          "link": null,
+          "name": "活动管理",
+          "id": 203
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "activityProduct/edit.html?source=1",
+              "name": "编辑中商品",
+              "id": 21000
+            },
+            {
+              "subMenus": [],
+              "link": "activityProduct/pending.html?source=1",
+              "name": "待审核商品",
+              "id": 21001
+            },
+            {
+              "subMenus": [],
+              "link": "activityProduct/toStart.html?source=1",
+              "name": "未开始商品",
+              "id": 21002
+            },
+            {
+              "subMenus": [],
+              "link": "activityProduct/processing.html?source=1",
+              "name": "进行中商品",
+              "id": 21003
+            },
+            {
+              "subMenus": [],
+              "link": "activityProduct/end.html?source=1",
+              "name": "已结束商品",
+              "id": 21004
+            },
+            {
+              "subMenus": [],
+              "link": "activityProduct/list.html?source=1",
+              "name": "全部商品",
+              "id": 21005
+            }
+          ],
+          "link": null,
+          "name": "活动商品管理",
+          "id": 210
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "flashSale/activityManagement.html?source=1",
+              "name": "活动管理",
+              "id": 21901
+            },
+            {
+              "subMenus": [],
+              "link": "flashSale/activityReview.html?source=1",
+              "name": "活动审核",
+              "id": 21902
+            },
+            {
+              "subMenus": [],
+              "link": "flashSale/activityProManagement.html?source=1",
+              "name": "活动品管理",
+              "id": 21903
+            },
+            {
+              "subMenus": [],
+              "link": "flashSale/activityProReview.html?source=1",
+              "name": "活动品审核",
+              "id": 21904
+            }
+          ],
+          "link": null,
+          "name": "限时折扣",
+          "id": 219
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "quotaPromotion/activityManagement.html?source=1",
+              "name": "活动管理",
+              "id": 22001
+            },
+            {
+              "subMenus": [],
+              "link": "quotaPromotion/activityReview.html?source=1",
+              "name": "活动审核",
+              "id": 22002
+            },
+            {
+              "subMenus": [],
+              "link": "quotaPromotion/activityProManagement.html?source=1",
+              "name": "活动品管理",
+              "id": 22003
+            },
+            {
+              "subMenus": [],
+              "link": "quotaPromotion/activityProReview.html?source=1",
+              "name": "活动品审核",
+              "id": 22004
+            }
+          ],
+          "link": null,
+          "name": "满额促销",
+          "id": 220
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "secondDiscount/activityManagement.html?source=1",
+              "name": "活动管理",
+              "id": 22101
+            },
+            {
+              "subMenus": [],
+              "link": "secondDiscount/activityReview.html?source=1",
+              "name": "活动审核",
+              "id": 22102
+            },
+            {
+              "subMenus": [],
+              "link": "secondDiscount/activityProManagement.html?source=1",
+              "name": "活动品管理",
+              "id": 22103
+            },
+            {
+              "subMenus": [],
+              "link": "secondDiscount/activityProReview.html?source=1",
+              "name": "活动品审核",
+              "id": 22104
+            }
+          ],
+          "link": "",
+          "name": "第二件优惠",
+          "id": 221
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "packaging/activityManagement.html?source=1",
+              "name": "活动管理",
+              "id": 22201
+            },
+            {
+              "subMenus": [],
+              "link": "packaging/activityReview.html?source=1",
+              "name": "活动审核",
+              "id": 22202
+            },
+            {
+              "subMenus": [],
+              "link": "packaging/activityProManagement.html?source=1",
+              "name": "活动品管理",
+              "id": 22203
+            },
+            {
+              "subMenus": [],
+              "link": "packaging/activityProReview.html?source=1",
+              "name": " 活动品审核",
+              "id": 22204
+            }
+          ],
+          "link": "",
+          "name": "打包一口价",
+          "id": 222
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "solidlyFurnished/activityManagement.html?source=1",
+              "name": "活动管理",
+              "id": 22301
+            },
+            {
+              "subMenus": [],
+              "link": "solidlyFurnished/activityReview.html?source=1",
+              "name": "活动审核",
+              "id": 22302
+            }
+          ],
+          "link": null,
+          "name": "满当活动",
+          "id": 223
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "randomReduce/list.html?state=draft",
+              "name": "编辑中随机立减",
+              "id": 21702
+            },
+            {
+              "subMenus": [],
+              "link": "randomReduce/list.html?state=pending",
+              "name": "待审核随机立减",
+              "id": 21703
+            },
+            {
+              "subMenus": [],
+              "link": "randomReduce/list.html?state=toStart",
+              "name": "未开始随机立减",
+              "id": 21704
+            },
+            {
+              "subMenus": [],
+              "link": "randomReduce/list.html?state=processing",
+              "name": "进行中随机立减",
+              "id": 21705
+            },
+            {
+              "subMenus": [],
+              "link": "randomReduce/list.html?state=completed",
+              "name": "已结束随机立减",
+              "id": 21706
+            },
+            {
+              "subMenus": [],
+              "link": "randomReduce/list.html?state=all",
+              "name": "全部随机立减",
+              "id": 21707
+            }
+          ],
+          "link": null,
+          "name": "随机立减管理",
+          "id": 217
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "shoppe/group.html",
+              "name": "专柜团查询",
+              "id": 21801
+            }
+          ],
+          "link": null,
+          "name": "专柜团管理",
+          "id": 218
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "template/list.html",
+              "name": "模板列表",
+              "id": 20601
+            },
+            {
+              "subMenus": [],
+              "link": "template/module.html",
+              "name": "模块列表",
+              "id": 20602
+            },
+            {
+              "subMenus": [],
+              "link": "template/material.html",
+              "name": "素材列表",
+              "id": 20603
+            }
+          ],
+          "link": null,
+          "name": "活动模板管理",
+          "id": 206
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "finaList/shoppe.html",
+              "name": "专柜商品入围",
+              "id": 110430
+            },
+            {
+              "subMenus": [],
+              "link": "finaList/brand.html",
+              "name": "品牌列表",
+              "id": 110431
+            }
+          ],
+          "link": null,
+          "name": "入围管理",
+          "id": 110429
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "mall/fittingRecord/all.html",
+              "name": "收藏列表",
+              "id": 21101
+            }
+          ],
+          "link": null,
+          "name": "收藏管理",
+          "id": 211
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "fittingShow/share.html?state=pending",
+              "name": "普通试衣秀",
+              "id": 21201
+            },
+            {
+              "subMenus": [],
+              "link": "fittingShow/share.html?state=checked",
+              "name": "精选试衣秀",
+              "id": 21202
+            },
+            {
+              "subMenus": [],
+              "link": "fittingShow/share.html?state=deleted",
+              "name": "已删除试衣秀",
+              "id": 21203
+            },
+            {
+              "subMenus": [],
+              "link": "fittingShow/recommend.html",
+              "name": "推荐试衣秀",
+              "id": 21204
+            },
+            {
+              "subMenus": [],
+              "link": "fittingShow/subject.html",
+              "name": "话题管理",
+              "id": 21205
+            },
+            {
+              "subMenus": [],
+              "link": "fittingShow/tag.html",
+              "name": "标签管理",
+              "id": 21206
+            },
+            {
+              "subMenus": [],
+              "link": "fittingShow/jubao.html",
+              "name": "举报列表",
+              "id": 21207
+            },
+            {
+              "subMenus": [],
+              "link": "fittingShow/sajiao.html",
+              "name": "撒娇礼管理",
+              "id": 21208
+            },
+            {
+              "subMenus": [],
+              "link": "fittingShow/teach.html",
+              "name": "试衣教程列表",
+              "id": 21209
+            }
+          ],
+          "link": null,
+          "name": "试衣秀管理",
+          "id": 212
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "message/instantMessage.html",
+              "name": "IM消息记录",
+              "id": 21301
+            }
+          ],
+          "link": null,
+          "name": "IM管理",
+          "id": 213
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "find/content.html",
+              "name": "发现内容列表",
+              "id": 21401
+            },
+            {
+              "subMenus": [],
+              "link": "find/inform.html",
+              "name": "举报列表",
+              "id": 21402
+            },
+            {
+              "subMenus": [],
+              "link": "find/classifyTag.html",
+              "name": "分类标签管理",
+              "id": 21403
+            }
+          ],
+          "link": null,
+          "name": "发现管理",
+          "id": 214
+        }
+      ],
+      "link": null,
+      "name": "百货管理",
+      "id": 2
+    },
+    {
+      "subMenus": [
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "stockProduct/edit.html",
+              "name": "编辑中商品",
+              "id": 30101
+            },
+            {
+              "subMenus": [],
+              "link": "stockProduct/pending.html",
+              "name": "待审核商品",
+              "id": 30102
+            },
+            {
+              "subMenus": [],
+              "link": "stockProduct/processing.html",
+              "name": "已上架商品",
+              "id": 30103
+            },
+            {
+              "subMenus": [],
+              "link": "stockProduct/offshelf.html",
+              "name": "已下架商品",
+              "id": 30104
+            },
+            {
+              "subMenus": [],
+              "link": "stockProduct/all.html",
+              "name": "全部商品",
+              "id": 30105
+            },
+            {
+              "subMenus": [],
+              "link": "stockProduct/inventory.html",
+              "name": "商品库存查询",
+              "id": 30107
+            }
+          ],
+          "link": null,
+          "name": "营销商品管理",
+          "id": 301
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "distribute/set.html?source=2",
+              "name": "分销商品",
+              "id": 31101
+            },
+            {
+              "subMenus": [],
+              "link": "wine/explainList.html?source=2",
+              "name": "天狗权益",
+              "id": 31102
+            },
+            {
+              "subMenus": [],
+              "link": "product/faqList.html?source=4",
+              "name": "FAQ列表",
+              "id": 31103
+            }
+          ],
+          "link": null,
+          "name": "营销商品设置",
+          "id": 311
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "suppermarket/product/list.html?source=2",
+              "name": "商品列表",
+              "id": 30901
+            },
+            {
+              "subMenus": [],
+              "link": "product/skuList.html",
+              "name": "SKU列表",
+              "id": 30903
+            }
+          ],
+          "link": null,
+          "name": "基础商品管理",
+          "id": 309
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "mall/categoryList.html?source=2",
+              "name": "商品分类",
+              "id": 31001
+            },
+            {
+              "subMenus": [],
+              "link": "mall/property.html",
+              "name": "描述性属性",
+              "id": 31003
+            },
+            {
+              "subMenus": [],
+              "link": "product/attribute.html",
+              "name": "销售性属性",
+              "id": 31004
+            },
+            {
+              "subMenus": [],
+              "link": "product/group.html?source=2",
+              "name": "分组列表",
+              "id": 31005
+            }
+          ],
+          "link": null,
+          "name": "基础信息管理",
+          "id": 310
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "mallCu/edit.html?source=2",
+              "name": "编辑中券",
+              "id": 30201
+            },
+            {
+              "subMenus": [],
+              "link": "mallCu/pending.html?source=2",
+              "name": "待审核券",
+              "id": 30202
+            },
+            {
+              "subMenus": [],
+              "link": "mallCu/toStart.html?source=2",
+              "name": "未开始券",
+              "id": 30203
+            },
+            {
+              "subMenus": [],
+              "link": "mallCu/processing.html?source=2",
+              "name": "进行中券",
+              "id": 30204
+            },
+            {
+              "subMenus": [],
+              "link": "mallCu/end.html?source=2",
+              "name": "已结束券",
+              "id": 30205
+            },
+            {
+              "subMenus": [],
+              "link": "mallCu/list.html?source=2",
+              "name": "全部券",
+              "id": 30206
+            }
+          ],
+          "link": null,
+          "name": "券管理",
+          "id": 302
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "activity/edit.html?source=2",
+              "name": "编辑中活动",
+              "id": 30301
+            },
+            {
+              "subMenus": [],
+              "link": "activity/pending.html?source=2",
+              "name": "待审核活动",
+              "id": 30302
+            },
+            {
+              "subMenus": [],
+              "link": "activity/toStart.html?source=2",
+              "name": "未开始活动",
+              "id": 30303
+            },
+            {
+              "subMenus": [],
+              "link": "activity/processing.html?source=2",
+              "name": "进行中活动",
+              "id": 30304
+            },
+            {
+              "subMenus": [],
+              "link": "activity/end.html?source=2",
+              "name": "已结束活动",
+              "id": 30305
+            },
+            {
+              "subMenus": [],
+              "link": "activity/list.html?source=2",
+              "name": "全部活动",
+              "id": 30306
+            }
+          ],
+          "link": null,
+          "name": "活动管理",
+          "id": 303
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "flashSale/activityManagement.html?source=2",
+              "name": "活动管理",
+              "id": 31201
+            },
+            {
+              "subMenus": [],
+              "link": "flashSale/activityReview.html?source=2",
+              "name": "活动审核",
+              "id": 31202
+            },
+            {
+              "subMenus": [],
+              "link": "flashSale/activityProManagement.html?source=2",
+              "name": "活动品管理",
+              "id": 31203
+            },
+            {
+              "subMenus": [],
+              "link": "flashSale/activityProReview.html?source=2",
+              "name": "活动品审核",
+              "id": 31204
+            }
+          ],
+          "link": null,
+          "name": "限时折扣",
+          "id": 312
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "quotaPromotion/activityManagement.html?source=2",
+              "name": "活动管理",
+              "id": 31301
+            },
+            {
+              "subMenus": [],
+              "link": "quotaPromotion/activityReview.html?source=2",
+              "name": "活动审核",
+              "id": 31302
+            },
+            {
+              "subMenus": [],
+              "link": "quotaPromotion/activityProManagement.html?source=2",
+              "name": "活动品管理",
+              "id": 31303
+            },
+            {
+              "subMenus": [],
+              "link": "quotaPromotion/activityProReview.html?source=2",
+              "name": "活动品审核",
+              "id": 31304
+            }
+          ],
+          "link": null,
+          "name": "满额促销",
+          "id": 313
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "secondDiscount/activityManagement.html?source=2",
+              "name": "活动管理",
+              "id": 31401
+            },
+            {
+              "subMenus": [],
+              "link": "secondDiscount/activityReview.html?source=2",
+              "name": "活动审核",
+              "id": 31402
+            },
+            {
+              "subMenus": [],
+              "link": "secondDiscount/activityProManagement.html?source=2",
+              "name": "活动品管理",
+              "id": 31403
+            },
+            {
+              "subMenus": [],
+              "link": "secondDiscount/activityProReview.html?source=2",
+              "name": "活动品审核",
+              "id": 31404
+            }
+          ],
+          "link": "",
+          "name": "第二件优惠",
+          "id": 314
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "packaging/activityManagement.html?source=2",
+              "name": "活动管理",
+              "id": 31501
+            },
+            {
+              "subMenus": [],
+              "link": "packaging/activityReview.html?source=2",
+              "name": "活动审核",
+              "id": 31502
+            },
+            {
+              "subMenus": [],
+              "link": "packaging/activityProManagement.html?source=2",
+              "name": "活动品管理",
+              "id": 31503
+            },
+            {
+              "subMenus": [],
+              "link": "packaging/activityProReview.html?source=2",
+              "name": " 活动品审核",
+              "id": 31504
+            }
+          ],
+          "link": "",
+          "name": "打包一口价",
+          "id": 315
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "goods/ofJoint.html?state=edit",
+              "name": "编辑中商品",
+              "id": 31601
+            },
+            {
+              "subMenus": [],
+              "link": "goods/ofJoint.html?state=pending",
+              "name": "待审核商品",
+              "id": 31602
+            },
+            {
+              "subMenus": [],
+              "link": "goods/ofJoint.html?state=onshelf",
+              "name": "已上架商品",
+              "id": 31603
+            },
+            {
+              "subMenus": [],
+              "link": "goods/ofJoint.html?state=offshelf",
+              "name": "已下架商品",
+              "id": 31604
+            },
+            {
+              "subMenus": [],
+              "link": "goods/ofJoint.html?state=all",
+              "name": "全部商品",
+              "id": 31605
+            }
+          ],
+          "link": "",
+          "name": "组合商品",
+          "id": 316
+        }
+      ],
+      "link": null,
+      "name": "超市管理",
+      "id": 3
+    },
+    {
+      "subMenus": [
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "wine/edit.html",
+              "name": "编辑中商品",
+              "id": 50101
+            },
+            {
+              "subMenus": [],
+              "link": "wine/pending.html",
+              "name": "待审核商品",
+              "id": 50102
+            },
+            {
+              "subMenus": [],
+              "link": "wine/processing.html",
+              "name": "已上架商品",
+              "id": 50103
+            },
+            {
+              "subMenus": [],
+              "link": "wine/offshelf.html",
+              "name": "已下架商品",
+              "id": 50104
+            },
+            {
+              "subMenus": [],
+              "link": "wine/all.html",
+              "name": "全部商品",
+              "id": 50105
+            },
+            {
+              "subMenus": [],
+              "link": "wine/inventory.html",
+              "name": "商品库存查询",
+              "id": 50111
+            }
+          ],
+          "link": null,
+          "name": "营销商品管理",
+          "id": 501
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "distribute/set.html?source=4",
+              "name": "分销商品",
+              "id": 51201
+            },
+            {
+              "subMenus": [],
+              "link": "wine/revenue/set.html",
+              "name": "商品税率",
+              "id": 51202
+            },
+            {
+              "subMenus": [],
+              "link": "productTag/set.html?source=4",
+              "name": "商品标签",
+              "id": 51203
+            },
+            {
+              "subMenus": [],
+              "link": "productSearch/set.html?source=4",
+              "name": "跨境搜索",
+              "id": 51204
+            },
+            {
+              "subMenus": [],
+              "link": "productSearch/set.html?source=3",
+              "name": "吃货搜索",
+              "id": 51207
+            },
+            {
+              "subMenus": [],
+              "link": "wine/explainList.html?source=3",
+              "name": "天狗权益",
+              "id": 51205
+            },
+            {
+              "subMenus": [],
+              "link": "product/faqList.html?source=4",
+              "name": "FAQ列表",
+              "id": 51206
+            }
+          ],
+          "link": null,
+          "name": "营销商品设置",
+          "id": 512
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "suppermarket/product/list.html?source=4",
+              "name": "商品列表",
+              "id": 50401
+            },
+            {
+              "subMenus": [],
+              "link": "product/skuList.html",
+              "name": "SKU列表",
+              "id": 50403
+            }
+          ],
+          "link": null,
+          "name": "基础商品管理",
+          "id": 504
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "product/point.html",
+              "name": "分类扣率",
+              "id": 51106
+            },
+            {
+              "subMenus": [],
+              "link": "mall/categoryList.html?source=3",
+              "name": "商品分类",
+              "id": 51101
+            },
+            {
+              "subMenus": [],
+              "link": "mall/property.html",
+              "name": "描述性属性",
+              "id": 51103
+            },
+            {
+              "subMenus": [],
+              "link": "product/attribute.html",
+              "name": "销售性属性",
+              "id": 51104
+            },
+            {
+              "subMenus": [],
+              "link": "product/group.html?source=4",
+              "name": "分组列表",
+              "id": 51105
+            }
+          ],
+          "link": null,
+          "name": "基础信息管理",
+          "id": 511
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "mallCu/edit.html?source=4",
+              "name": "编辑中券",
+              "id": 50801
+            },
+            {
+              "subMenus": [],
+              "link": "mallCu/pending.html?source=4",
+              "name": "待审核券",
+              "id": 50802
+            },
+            {
+              "subMenus": [],
+              "link": "mallCu/toStart.html?source=4",
+              "name": "未开始券",
+              "id": 50803
+            },
+            {
+              "subMenus": [],
+              "link": "mallCu/processing.html?source=4",
+              "name": "进行中券",
+              "id": 50804
+            },
+            {
+              "subMenus": [],
+              "link": "mallCu/end.html?source=4",
+              "name": "已结束券",
+              "id": 50805
+            },
+            {
+              "subMenus": [],
+              "link": "mallCu/list.html?source=4",
+              "name": "全部券",
+              "id": 50806
+            }
+          ],
+          "link": null,
+          "name": "券管理",
+          "id": 508
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "activity/edit.html?source=4",
+              "name": "编辑中活动",
+              "id": 50501
+            },
+            {
+              "subMenus": [],
+              "link": "activity/pending.html?source=4",
+              "name": "待审核活动",
+              "id": 50502
+            },
+            {
+              "subMenus": [],
+              "link": "activity/toStart.html?source=4",
+              "name": "未开始活动",
+              "id": 50503
+            },
+            {
+              "subMenus": [],
+              "link": "activity/processing.html?source=4",
+              "name": "进行中活动",
+              "id": 50504
+            },
+            {
+              "subMenus": [],
+              "link": "activity/end.html?source=4",
+              "name": "已结束活动",
+              "id": 50505
+            },
+            {
+              "subMenus": [],
+              "link": "activity/list.html?source=4",
+              "name": "全部活动",
+              "id": 50506
+            }
+          ],
+          "link": null,
+          "name": "活动管理",
+          "id": 505
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "flashSale/activityManagement.html?source=4",
+              "name": "活动管理",
+              "id": 51301
+            },
+            {
+              "subMenus": [],
+              "link": "flashSale/activityReview.html?source=4",
+              "name": "活动审核",
+              "id": 51302
+            },
+            {
+              "subMenus": [],
+              "link": "flashSale/activityProManagement.html?source=4",
+              "name": "活动品管理",
+              "id": 51303
+            },
+            {
+              "subMenus": [],
+              "link": "flashSale/activityProReview.html?source=4",
+              "name": "活动品审核",
+              "id": 51304
+            }
+          ],
+          "link": null,
+          "name": "限时折扣",
+          "id": 513
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "quotaPromotion/activityManagement.html?source=4",
+              "name": "活动管理",
+              "id": 51401
+            },
+            {
+              "subMenus": [],
+              "link": "quotaPromotion/activityReview.html?source=4",
+              "name": "活动审核",
+              "id": 51402
+            },
+            {
+              "subMenus": [],
+              "link": "quotaPromotion/activityProManagement.html?source=4",
+              "name": "活动品管理",
+              "id": 51403
+            },
+            {
+              "subMenus": [],
+              "link": "quotaPromotion/activityProReview.html?source=4",
+              "name": "活动品审核",
+              "id": 51404
+            }
+          ],
+          "link": null,
+          "name": "满额促销",
+          "id": 514
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "secondDiscount/activityManagement.html?source=4",
+              "name": "活动管理",
+              "id": 51501
+            },
+            {
+              "subMenus": [],
+              "link": "secondDiscount/activityReview.html?source=4",
+              "name": "活动审核",
+              "id": 51502
+            },
+            {
+              "subMenus": [],
+              "link": "secondDiscount/activityProManagement.html?source=4",
+              "name": "活动品管理",
+              "id": 51503
+            },
+            {
+              "subMenus": [],
+              "link": "secondDiscount/activityProReview.html?source=4",
+              "name": "活动品审核",
+              "id": 51504
+            }
+          ],
+          "link": "",
+          "name": "第二件优惠",
+          "id": 515
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "packaging/activityManagement.html?source=4",
+              "name": "活动管理",
+              "id": 51601
+            },
+            {
+              "subMenus": [],
+              "link": "packaging/activityReview.html?source=4",
+              "name": "活动审核",
+              "id": 51602
+            },
+            {
+              "subMenus": [],
+              "link": "packaging/activityProManagement.html?source=4",
+              "name": "活动品管理",
+              "id": 51603
+            },
+            {
+              "subMenus": [],
+              "link": "packaging/activityProReview.html?source=4",
+              "name": " 活动品审核",
+              "id": 51604
+            }
+          ],
+          "link": "",
+          "name": "打包一口价",
+          "id": 516
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "group/edit.html?source=4",
+              "name": "编辑中商品",
+              "id": 51001
+            },
+            {
+              "subMenus": [],
+              "link": "group/pending.html?source=4",
+              "name": "待审核商品",
+              "id": 51002
+            },
+            {
+              "subMenus": [],
+              "link": "group/processing.html?source=4",
+              "name": "已上架商品",
+              "id": 51003
+            },
+            {
+              "subMenus": [],
+              "link": "group/offshelf.html?source=4",
+              "name": "已下架商品",
+              "id": 51004
+            },
+            {
+              "subMenus": [],
+              "link": "group/all.html?source=4",
+              "name": "全部商品",
+              "id": 51005
+            }
+          ],
+          "link": null,
+          "name": "组合商品",
+          "id": 510
+        }
+      ],
+      "link": null,
+      "name": "供应链",
+      "id": 5
+    },
+    {
+      "subMenus": [
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "coupon/mall.html",
+              "name": "领券记录",
+              "id": 60101
+            }
+          ],
+          "link": null,
+          "name": "领券记录管理",
+          "id": 601
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "card/search.html",
+              "name": "保鲜礼查询",
+              "id": 60201
+            },
+            {
+              "subMenus": [],
+              "link": "card/refund.html",
+              "name": "保鲜礼退款",
+              "id": 60202
+            }
+          ],
+          "link": "",
+          "name": "保鲜礼管理",
+          "id": 602
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "lottery/search.html",
+              "name": "中奖用户查询",
+              "id": 60301
+            }
+          ],
+          "link": "",
+          "name": "中奖用户管理",
+          "id": 603
+        }
+      ],
+      "link": null,
+      "name": "领券记录管理",
+      "id": 6
+    },
+    {
+      "subMenus": [
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "member/list.html?v=1231",
+              "name": "会员基本信息",
+              "id": 70101
+            },
+            {
+              "subMenus": [],
+              "link": "member/group.html",
+              "name": "会员人群管理",
+              "id": 70102
+            },
+            {
+              "subMenus": [],
+              "link": "member/privilege.html",
+              "name": "会员特权设置",
+              "id": 70103
+            },
+            {
+              "subMenus": [],
+              "link": "member/signIn.html",
+              "name": "会员签到管理",
+              "id": 110433
+            },
+            {
+              "subMenus": [],
+              "link": "member/search.html",
+              "name": "天狗用户查询",
+              "id": 70104
+            }
+          ],
+          "link": null,
+          "name": "CRM管理",
+          "id": 701
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "member/push/draft.html",
+              "name": "编辑中推送",
+              "id": 70201
+            },
+            {
+              "subMenus": [],
+              "link": "member/push/toStart.html",
+              "name": "未开始推送",
+              "id": 70203
+            },
+            {
+              "subMenus": [],
+              "link": "member/push/toEnd.html",
+              "name": "已完成推送",
+              "id": 70204
+            }
+          ],
+          "link": null,
+          "name": "会员精准推送",
+          "id": 702
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "member/trigger/edit.html",
+              "name": "编辑中",
+              "id": 70301
+            },
+            {
+              "subMenus": [],
+              "link": "member/trigger/pending.html",
+              "name": "待审核",
+              "id": 70302
+            },
+            {
+              "subMenus": [],
+              "link": "member/trigger/toStart.html",
+              "name": "未开始",
+              "id": 70303
+            },
+            {
+              "subMenus": [],
+              "link": "member/trigger/processing.html",
+              "name": "进行中",
+              "id": 70304
+            },
+            {
+              "subMenus": [],
+              "link": "member/trigger/list.html",
+              "name": "全部",
+              "id": 70305
+            }
+          ],
+          "link": null,
+          "name": "触发式推送广告",
+          "id": 703
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "member/scheme.html",
+              "name": "已完成",
+              "id": 70401
+            }
+          ],
+          "link": null,
+          "name": "易销售",
+          "id": 704
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "member/question.html",
+              "name": "问卷调研管理",
+              "id": 70501
+            }
+          ],
+          "link": null,
+          "name": "调研管理",
+          "id": 705
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "member/airguide.html",
+              "name": "空导任务列表",
+              "id": 70601
+            }
+          ],
+          "link": null,
+          "name": "空导任务管理",
+          "id": 706
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "shortMessage/management.html",
+              "name": "短信管理",
+              "id": 70701
+            },
+            {
+              "subMenus": [],
+              "link": "shortMessage/account.html",
+              "name": "短信账户管理",
+              "id": 70702
+            },
+            {
+              "subMenus": [],
+              "link": "shortMessage/provider.html",
+              "name": "供应商配置",
+              "id": 70703
+            }
+          ],
+          "link": null,
+          "name": "短信管理",
+          "id": 707
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "/index/crm_manage/cycle-but/cycle-but",
+              "name": "编辑中",
+              "id": 70801
+            },
+            {
+              "subMenus": [],
+              "link": "shortMessage/account.html",
+              "name": "待审核",
+              "id": 70802
+            },
+            {
+              "subMenus": [],
+              "link": "shortMessage/provider.html",
+              "name": "审核失败",
+              "id": 70803
+            },
+            {
+              "subMenus": [],
+              "link": "shortMessage/provider.html",
+              "name": "未开始",
+              "id": 70804
+            },
+            {
+              "subMenus": [],
+              "link": "shortMessage/provider.html",
+              "name": "全部",
+              "id": 70805
+            }
+          ],
+          "link": null,
+          "name": "周期购优惠券",
+          "id": 708
+        }
+      ],
+      "link": null,
+      "name": "CRM管理",
+      "id": 7
+    },
+    {
+      "subMenus": [
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "system/userList.html",
+              "name": "用户列表",
+              "id": 90101
+            },
+            {
+              "subMenus": [],
+              "link": "system/roleList.html",
+              "name": "角色列表",
+              "id": 90102
+            }
+          ],
+          "link": null,
+          "name": "用户管理",
+          "id": 901
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "store/province.html",
+              "name": "省列表",
+              "id": 90201
+            },
+            {
+              "subMenus": [],
+              "link": "store/city.html",
+              "name": "市列表",
+              "id": 90202
+            },
+            {
+              "subMenus": [],
+              "link": "store/district.html",
+              "name": "区列表",
+              "id": 90204
+            },
+            {
+              "subMenus": [],
+              "link": "store/area.html",
+              "name": "区域列表",
+              "id": 90203
+            }
+          ],
+          "link": null,
+          "name": "区域管理",
+          "id": 902
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "store/market.html",
+              "name": "超市列表",
+              "id": 90301
+            },
+            {
+              "subMenus": [],
+              "link": "store/mall.html",
+              "name": "百货列表",
+              "id": 90305
+            },
+            {
+              "subMenus": [],
+              "link": "store/supplier.html",
+              "name": "品牌商列表",
+              "id": 90307
+            }
+          ],
+          "link": null,
+          "name": "门店管理",
+          "id": 903
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "adv/location.html",
+              "name": "点位管理",
+              "id": 90401
+            },
+            {
+              "subMenus": [],
+              "link": "adv/link.html",
+              "name": "链接管理",
+              "id": 90402
+            },
+            {
+              "subMenus": [],
+              "link": "adv/two_dimension_code.html?v=808.1",
+              "name": "二维码管理",
+              "id": 90403
+            }
+          ],
+          "link": null,
+          "name": "电子入口管理",
+          "id": 904
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "app/record.html",
+              "name": "APP更新",
+              "id": 90501
+            }
+          ],
+          "link": null,
+          "name": "APP管理",
+          "id": 905
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "FAQ/list.html",
+              "name": "FAQ列表",
+              "id": 90601
+            }
+          ],
+          "link": null,
+          "name": "FAQ管理",
+          "id": 906
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "dictionaries/list.html",
+              "name": "字典表管理",
+              "id": 90801
+            }
+          ],
+          "link": "",
+          "name": "配置管理",
+          "id": 908
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "car/parking.html",
+              "name": "停车场列表",
+              "id": 90901
+            },
+            {
+              "subMenus": [],
+              "link": "car/carnumber.html",
+              "name": "车牌号解绑",
+              "id": 90902
+            }
+          ],
+          "link": null,
+          "name": "停车场管理",
+          "id": 909
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "contract/create.html",
+              "name": "新建合同",
+              "id": 91001
+            },
+            {
+              "subMenus": [],
+              "link": "contract/edit.html",
+              "name": "合同审核",
+              "id": 91002
+            },
+            {
+              "subMenus": [],
+              "link": "contract/all.html",
+              "name": "全部合同",
+              "id": 91003
+            }
+          ],
+          "link": "",
+          "name": "合同管理",
+          "id": 910
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "notice/show.html",
+              "name": "公告展示管理",
+              "id": 91101
+            }
+          ],
+          "link": "",
+          "name": "公告管理",
+          "id": 911
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "brandFiles/edit.html",
+              "name": "编辑中品牌",
+              "id": 91201
+            },
+            {
+              "subMenus": [],
+              "link": "brandFiles/check.html",
+              "name": "待审核品牌",
+              "id": 91202
+            },
+            {
+              "subMenus": [],
+              "link": "brandFiles/start.html",
+              "name": "启用中品牌",
+              "id": 91203
+            },
+            {
+              "subMenus": [],
+              "link": "brandFiles/discard.html",
+              "name": "废弃品牌",
+              "id": 91204
+            }
+          ],
+          "link": "",
+          "name": "品牌档案",
+          "id": 912
+        }
+      ],
+      "link": null,
+      "name": "系统管理",
+      "id": 9
+    },
+    {
+      "subMenus": [
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "kuqun/edit7.html",
+              "name": "批次库存查询",
+              "id": 10103
+            },
+            {
+              "subMenus": [],
+              "link": "kuqun/edit10.html",
+              "name": "仓库库存查询",
+              "id": 100100
+            },
+            {
+              "subMenus": [],
+              "link": "kuqun/edit1.html",
+              "name": "总库存查询",
+              "id": 100101
+            },
+            {
+              "subMenus": [],
+              "link": "kuqun/edit2.html",
+              "name": "库存流水",
+              "id": 100102
+            }
+          ],
+          "link": null,
+          "name": "查询",
+          "id": 1001
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "kuqun/edit3.html",
+              "name": "采购入",
+              "id": 100201
+            },
+            {
+              "subMenus": [],
+              "link": "kuqun/edit4.html",
+              "name": "销退入",
+              "id": 100202
+            },
+            {
+              "subMenus": [],
+              "link": "kuqun/edit8.html",
+              "name": "寄售入",
+              "id": 100203
+            }
+          ],
+          "link": null,
+          "name": "入库",
+          "id": 1002
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "kuqun/edit5.html",
+              "name": "采退出",
+              "id": 100301
+            },
+            {
+              "subMenus": [],
+              "link": "kuqun/edit9.html",
+              "name": "寄退出",
+              "id": 100302
+            }
+          ],
+          "link": null,
+          "name": "出库",
+          "id": 1003
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "kuqun/edit6.html",
+              "name": "商品盘点",
+              "id": 100401
+            }
+          ],
+          "link": null,
+          "name": "盘点",
+          "id": 1004
+        }
+      ],
+      "link": null,
+      "name": "库存管理",
+      "id": 10
+    },
+    {
+      "subMenus": [
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "consignSale/list.html",
+              "name": "寄售列表",
+              "id": 110001
+            },
+            {
+              "subMenus": [],
+              "link": "consignSale/create.html",
+              "name": "新建寄售单",
+              "id": 110002
+            },
+            {
+              "subMenus": [],
+              "link": "consignSale/pending.html",
+              "name": "待审核寄售单",
+              "id": 110003
+            },
+            {
+              "subMenus": [],
+              "link": "consignSale/pended.html",
+              "name": "已审核寄售单",
+              "id": 110004
+            },
+            {
+              "subMenus": [],
+              "link": "consignSale/shipping.html",
+              "name": "待发货寄售单",
+              "id": 110005
+            },
+            {
+              "subMenus": [],
+              "link": "consignSale/stocking.html",
+              "name": "待入库寄售单",
+              "id": 110006
+            },
+            {
+              "subMenus": [],
+              "link": "consignSale/stocked.html",
+              "name": "已完成寄售单",
+              "id": 110007
+            },
+            {
+              "subMenus": [],
+              "link": "consignSale/closed.html",
+              "name": "已关闭寄售单",
+              "id": 110008
+            }
+          ],
+          "link": "",
+          "name": "寄售管理",
+          "id": 1100
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "procure/list.html",
+              "name": "采购列表",
+              "id": 100404
+            },
+            {
+              "subMenus": [],
+              "link": "procure/create.html",
+              "name": "新建采购单",
+              "id": 100405
+            },
+            {
+              "subMenus": [],
+              "link": "procure/pending.html",
+              "name": "待审核采购单",
+              "id": 100406
+            },
+            {
+              "subMenus": [],
+              "link": "procure/pended.html",
+              "name": "已审核采购单",
+              "id": 100407
+            },
+            {
+              "subMenus": [],
+              "link": "procure/shipping.html",
+              "name": "待发货采购单",
+              "id": 100408
+            },
+            {
+              "subMenus": [],
+              "link": "procure/stocking.html",
+              "name": "待入库采购单",
+              "id": 100409
+            },
+            {
+              "subMenus": [],
+              "link": "procure/stocked.html",
+              "name": "已完成采购单",
+              "id": 100410
+            },
+            {
+              "subMenus": [],
+              "link": "procure/closed.html",
+              "name": "已关闭采购单",
+              "id": 100411
+            }
+          ],
+          "link": null,
+          "name": "采购管理",
+          "id": 1101
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "return/list.html",
+              "name": "采退列表",
+              "id": 100412
+            },
+            {
+              "subMenus": [],
+              "link": "return/create.html",
+              "name": "新建采退单",
+              "id": 100413
+            },
+            {
+              "subMenus": [],
+              "link": "return/specialCreate.html",
+              "name": "新建特殊采退单",
+              "id": 100423
+            },
+            {
+              "subMenus": [],
+              "link": "return/pending.html",
+              "name": "待审核采退单",
+              "id": 100414
+            },
+            {
+              "subMenus": [],
+              "link": "return/pended.html",
+              "name": "已审核采退单",
+              "id": 100415
+            },
+            {
+              "subMenus": [],
+              "link": "return/shipping.html",
+              "name": "待发货采退单",
+              "id": 100416
+            },
+            {
+              "subMenus": [],
+              "link": "return/stocking.html",
+              "name": "待收货采退单",
+              "id": 100417
+            },
+            {
+              "subMenus": [],
+              "link": "return/stocked.html",
+              "name": "已完成采退单",
+              "id": 100418
+            },
+            {
+              "subMenus": [],
+              "link": "return/closed.html",
+              "name": "已关闭采退单",
+              "id": 100419
+            }
+          ],
+          "link": null,
+          "name": "采退管理",
+          "id": 1102
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "supplier/supplier.html",
+              "name": "供应商管理",
+              "id": 100420
+            },
+            {
+              "subMenus": [],
+              "link": "supplier/rate.html",
+              "name": "汇率管理",
+              "id": 100421
+            }
+          ],
+          "link": null,
+          "name": "供应商管理",
+          "id": 1103
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "stock/stock.html",
+              "name": "仓库管理",
+              "id": 110421
+            }
+          ],
+          "link": null,
+          "name": "仓库管理",
+          "id": 1104
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "self/product.html",
+              "name": "供应商商品管理",
+              "id": 100422
+            },
+            {
+              "subMenus": [],
+              "link": "self/price.html",
+              "name": "批次价格管理",
+              "id": 100424
+            },
+            {
+              "subMenus": [],
+              "link": "self/recordMessage.html",
+              "name": "商品备案信息",
+              "id": 100425
+            }
+          ],
+          "link": null,
+          "name": "自营商品管理",
+          "id": 1105
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "wmsActivityProduct/pending.html",
+              "name": "待审核商品",
+              "id": 110423
+            },
+            {
+              "subMenus": [],
+              "link": "wmsActivityProduct/toStart.html",
+              "name": "未开始商品",
+              "id": 110424
+            },
+            {
+              "subMenus": [],
+              "link": "wmsActivityProduct/processing.html",
+              "name": "已开始商品",
+              "id": 110425
+            },
+            {
+              "subMenus": [],
+              "link": "wmsActivityProduct/list.html",
+              "name": "全部商品",
+              "id": 110426
+            }
+          ],
+          "link": null,
+          "name": "活动商品管理",
+          "id": 1106
+        }
+      ],
+      "link": null,
+      "name": "采购管理",
+      "id": 11
+    },
+    {
+      "subMenus": [
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "sk/keywordSettings.html",
+              "name": "关键字设置",
+              "id": 110405
+            },
+            {
+              "subMenus": [],
+              "link": "sk/productwordManagement",
+              "name": "产品词管理",
+              "id": 110435
+            }
+          ],
+          "link": null,
+          "name": "映射管理",
+          "id": 1201
+        },
+        {
+          "subMenus": [
+            {
+              "subMenus": [],
+              "link": "sk/searchSettings.html",
+              "name": "购物首页搜索",
+              "id": 100427
+            },
+            {
+              "subMenus": [],
+              "link": "sk/worldSearch.html",
+              "name": "全球购频道搜索",
+              "id": 100428
+            }
+          ],
+          "link": "",
+          "name": "搜索设置",
+          "id": 1202
+        }
+      ],
+      "link": null,
+      "name": "搜索管理",
+      "id": 12
+    }
+  ],
+  "success": true,
+  "msg": null,
+  "timestamp": 1535605071041
+}
